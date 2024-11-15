@@ -1,0 +1,46 @@
+div {
+    height: 400px;
+    width: 200px
+  }
+h1{
+    text-align:center;
+    color:darkolivegreen;
+}
+  #first1 {
+    border: 10px solid black;
+    padding: 20px;
+    background-color: cadetblue;
+  }
+
+  #first2 {
+    border: 10px solid black;
+    background-color: aqua;
+    padding: 20px;
+    margin-left: 260px;
+  }
+
+  #second {
+    border: solid black;
+    border-width: 10px 10px;
+    background-color: yellowgreen;
+    margin-top: 520px;
+    padding:20px;
+  }
+
+  #third {
+    border: 10px solid black;
+    background-color: pink;
+    margin-left: 260px;
+    padding:20px
+
+  }
+
+  img {
+    height: 200px;
+    width: 200px;
+  }
+
+  p {
+    height: 200px;
+    width: 200px;
+  }
